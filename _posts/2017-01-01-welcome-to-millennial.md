@@ -4,7 +4,7 @@ title: "A Vegetation Education!"
 author: "Jack C"
 categories: documentation
 tags: [documentation,sample]
-image: vegetationeducation/TitleImage.jpg
+image: vegetationeducation/assets/P1110881.JPG
 ---
 
 Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
